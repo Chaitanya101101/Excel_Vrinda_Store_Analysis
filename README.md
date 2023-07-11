@@ -1,6 +1,17 @@
 # Excel-Vrinda Store Analysis Project
 ### Objective:
 Vrinda store wants to create an annual sales report for 2022. So that, Vrinda can understand their customers behaviour and strategic planning to grow more sales in 2023.
+
+### Questions (KPIs):
+- Compare the sales and orders using a single chart.
+- Which month got the highest sales and orders?
+- Who purchased more men or women in 2022?
+- What are the different order statuses in 2022?
+- List the top 10 states contributing to the sales?
+- Relation between age and gender based on several orders.
+- Which channel is contributing to maximum sales?
+- Highest selling category? etc.
+
 ### Result:
 I have created an annual sales report for Vrinda Store by gathering, cleaning, processing, and analyzing sales data for 2022. Visualize the insights through charts and graphs, create an interactive dashboard, and provide actionable recommendations to enhance sales growth in the year 2023. 
 ### Interactive dashboard:
