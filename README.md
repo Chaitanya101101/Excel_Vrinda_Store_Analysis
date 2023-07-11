@@ -22,4 +22,4 @@ I have created an annual sales report for Vrinda Store by gathering, cleaning, p
 * Middle-age women order more than men and other women's age group sections.
 * Amazon, Flipkart and Myntra are the top three channels from where most items are ordered.
 ### Conclusion:
-Vrinda Store should promote their marketing strategies using social media, like providing coupons/ discounts/ offers to middle-aged women in the states of Maharshtra, Karnataka and Uttar Pradesh through the channels Amazon, Flipkart and Myntra.
+Vrinda Store should promote their marketing strategies using social media, like providing coupons/ discounts/ offers to middle-aged women in the states of Maharashtra, Karnataka and Uttar Pradesh through the channels Amazon, Flipkart and Myntra.
